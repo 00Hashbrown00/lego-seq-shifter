@@ -17,3 +17,4 @@ Lego based sequential shifter for Racing Sims, using Simhub, etc.
 
 
 
+![Image to Shifter](https://camo.githubusercontent.com/9a8bb3a8bba2888b962c8c62dfbaa667452b0780/68747470733a2f2f66696c652e627269636b6c696e6b2e636f6d2f31392f3735352f3735353439312e706e67)
